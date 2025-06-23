@@ -1,16 +1,25 @@
 # 💫 Hi 👋, I'm Devendra Kumar
-**AI/ML Engineer || Passionate about User-Friendly Design and Functionality**
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+Passionate+Coder;Self+learning;Python+%7C+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 
 Email Me 👉 ✉️ **devenjsr@gmail.com** For Anything. 😊😊
 
-<!-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** devenjsr@gmail.com
-- 😄 **Pronouns:** 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me -->
+<img align="right" alt="Coding" min-width="300px" max-width="200px" width="340px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+
+- 🎓 I'm a Third Year **CS** Student.
+- 🧑🏿‍💻 **Open Source Contributor**
+- 🌱 I’m currently learning **Frameworks**
+- 👀 Interested in **Full-stack Development**.
+- 💡 Currently focused on **DSA** and **Development**.
+- 📚 I’ve always been passionate about technology and coding.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ypur5v5c) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16D8TBgsZm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendrakumar03) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Open_Parsley927) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:devenjsr@gmail.com) 
